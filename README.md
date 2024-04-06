@@ -1,4 +1,5 @@
 # Random Timer
 #### Description:
-This is a random timer Android application made in Unity.
+Random timer Android application made in Unity.
+This version does not contain any Store Assets.
 Under development...
